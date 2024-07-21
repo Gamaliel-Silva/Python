@@ -1,5 +1,5 @@
 
-txt = input('Digite o texto: ')
+txt = input('Digite um texto: ')
 try:
     a = open('c:\\python\\mov.txt', 'r')
 except IOError:
