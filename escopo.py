@@ -1,3 +1,4 @@
+# Novo comentário
 vg = 'global'
 
 def variavel ():
