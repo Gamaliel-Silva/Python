@@ -1,4 +1,4 @@
-# Mercado pago
+# Novo comentário
 txt = input('Digite um texto: ')
 try:
     a = open('c:\\python\\mov.txt', 'r')
